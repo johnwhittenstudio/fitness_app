@@ -1,0 +1,52 @@
+Build and Deploy a Modern React 18 Fitness Exercises App With APIs | RapidAPI
+https://www.youtube.com/watch?v=KBpoBc98BwM&list=PLZPKwFY6Uj6Pig16ypLd5Ey1eqm-NO1Uz
+
+Every web developer needs to know how to use APIs in their applications. Learn how to create the best and most modern Fitness Exercises App using two separate APIs!
+
+💻JS Mastery Pro - https://jsmastery.pro?discount=youtube
+✅ A special YOUTUBE discount code is automatically applied!
+
+⭐RapidAPI - https://rapidapi.com/hub?utm_source=y...
+⭐RapidAPI ExerciseDB - https://rapidapi.com/justin-WFnsXH_t6...
+⭐RapidAPI YouTube Search - https://rapidapi.com/h0p3rwe/api/yout...
+
+📚 Materials/References:
+GitHub Code (give it a star ⭐): https://github.com/adrianhajdin/proje...
+Styles & Other Code: https://gist.github.com/adrianhajdin/...
+Assets: https://minhaskamal.github.io/DownGit...
+
+With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more, Golds Gym is the best React Fitness App that you can currently find on YouTube and on the entire internet.
+
+Alongside building this phenomenal project that you can put on your portfolio, In this video, you'll learn:
+
+- Advanced React Best Practices such as file structure and hooks
+- Creating a Beautiful User Interface using the Material UI (version 5)
+- Fetching data from unlimited sources using RapidAPI
+
+💻 Join our Discord Community - https://discord.gg/n6EdbFJ
+🐦 Follow us on Twitter: https://twitter.com/jsmasterypro
+🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery
+
+💼 Business Inquiries: contact@jsmastery.pro
+
+Time Stamps 👇
+00:00:00 Intro
+00:04:05 Setup
+00:10:32 File & Folder Structure
+00:16:24 Navbar
+00:26:21 Hero Banner
+00:36:36 Search Exercises
+00:48:48 Fetch Data
+00:36:36 Search Exercises
+01:00:00 Horizontal Scrollbar
+01:06:00 Body Part Component
+01:16:20 Exercises Component
+01:22:34 Exercises Card Component
+01:39:16 Exercises Detail
+01:46:39 Detail Component
+02:01:55 Exercise Videos
+02:15:12 Similar Exercises
+02:17:45 Loader
+02:19:21 Fixing Bugs
+02:23:33 Footer
+02:27:49 Deployment

@@ -14,7 +14,7 @@ const HeroBanner = () => {
             fontWeight="600" 
             fontSize="26px"
         >
-            Jungle Gym Fitness
+            Golds Gym Fitness
         </Typography>
 
         <Typography 
